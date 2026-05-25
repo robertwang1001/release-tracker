@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.1](https://github.com/robertwang1001/release-tracker/compare/v1.3.0...v1.3.1) (2026-05-25)
+
+
+### Bug Fixes
+
+* **deps:** update all non-major dependencies ([#16](https://github.com/robertwang1001/release-tracker/issues/16)) ([9f0573a](https://github.com/robertwang1001/release-tracker/commit/9f0573a7253da92d0c667cd9162e1cefb33b6e34))
+
 ## [1.3.0](https://github.com/GloryWong/release-tracker/compare/v1.2.3...v1.3.0) (2026-05-11)
 
 
