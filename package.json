@@ -64,5 +64,10 @@
   },
   "lint-staged": {
     "*": "pnpm lint:fix"
+  },
+  "commitlint": {
+    "extends": [
+      "@commitlint/config-conventional"
+    ]
   }
 }
