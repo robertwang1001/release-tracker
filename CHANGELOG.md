@@ -1,5 +1,23 @@
 # Changelog
 
+## [1.3.2](https://github.com/robertwang1001/release-tracker/compare/v1.3.1...v1.3.2) (2026-09-06)
+
+
+### Bug Fixes
+
+* **deps:** update all non-major dependencies ([#19](https://github.com/robertwang1001/release-tracker/issues/19)) ([1a1fda2](https://github.com/robertwang1001/release-tracker/commit/1a1fda25c073c446c8db5bdb556805352922f833))
+* **deps:** update all non-major dependencies ([#21](https://github.com/robertwang1001/release-tracker/issues/21)) ([7e23d84](https://github.com/robertwang1001/release-tracker/commit/7e23d844ba9b8894322995af16048f2d45c5bc5e))
+* **deps:** update all non-major dependencies ([#22](https://github.com/robertwang1001/release-tracker/issues/22)) ([2d6d405](https://github.com/robertwang1001/release-tracker/commit/2d6d40544b516f4df08164da7c726e8560a6487a))
+* **deps:** update all non-major dependencies ([#23](https://github.com/robertwang1001/release-tracker/issues/23)) ([4b516cc](https://github.com/robertwang1001/release-tracker/commit/4b516cc6e2a652fe0f5d80b3157ffd43fb511b6c))
+* **deps:** update all non-major dependencies ([#25](https://github.com/robertwang1001/release-tracker/issues/25)) ([4846a3f](https://github.com/robertwang1001/release-tracker/commit/4846a3fb3ceffd4a3e2f5e4d9221a6768b3f8ce9))
+* **deps:** update all non-major dependencies ([#26](https://github.com/robertwang1001/release-tracker/issues/26)) ([5fb26b4](https://github.com/robertwang1001/release-tracker/commit/5fb26b4d09a9d6ccbf0222546384e8c3de3cea8b))
+* **deps:** update all non-major dependencies ([#27](https://github.com/robertwang1001/release-tracker/issues/27)) ([b929cb3](https://github.com/robertwang1001/release-tracker/commit/b929cb35da82eb36d459caf7c489e713c09b0556))
+* **deps:** update all non-major dependencies ([#29](https://github.com/robertwang1001/release-tracker/issues/29)) ([a99bfa9](https://github.com/robertwang1001/release-tracker/commit/a99bfa9ea89177603e73011e5897618ae4135791))
+* **deps:** update all non-major dependencies ([#30](https://github.com/robertwang1001/release-tracker/issues/30)) ([f256a31](https://github.com/robertwang1001/release-tracker/commit/f256a31f84293f2afab7d1a838074ee0dc041c3a))
+* **deps:** update all non-major dependencies ([#31](https://github.com/robertwang1001/release-tracker/issues/31)) ([1275446](https://github.com/robertwang1001/release-tracker/commit/1275446a975d038ddccc38861589ebec1989155a))
+* **deps:** update all non-major dependencies ([#35](https://github.com/robertwang1001/release-tracker/issues/35)) ([ae81777](https://github.com/robertwang1001/release-tracker/commit/ae817770ca8320b251a6dbd54be71138e7b79d6d))
+* **deps:** update all non-major dependencies ([#36](https://github.com/robertwang1001/release-tracker/issues/36)) ([7fd8bd1](https://github.com/robertwang1001/release-tracker/commit/7fd8bd1bc0022a9c0d91fc697c9ddd7071461532))
+
 ## [1.3.1](https://github.com/robertwang1001/release-tracker/compare/v1.3.0...v1.3.1) (2026-05-25)
 
 
